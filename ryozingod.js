@@ -439,8 +439,8 @@ const setting = db.data.settings[botNumber]
 console.error(err)
 }
 //=================================================//
-const nulll = fs.readFileSync(`./media/nulll.jpg`)
-const nulll2 = fs.readFileSync(`./media/nulll2.jpg`)
+const nulll = fs.readFileSync(`./media/Img1.jpg`)
+const nulll2 = fs.readFileSync(`./media/Img2.jpg`)
 const mengkece = fs.readFileSync(`./media/mengkece.jpg`)
 const latx = fs.readFileSync(`./media/latx.png`)
 const fakedoc = fs.readFileSync(`./src/bruhhh.apk`)
